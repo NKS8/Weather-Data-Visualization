@@ -1,6 +1,6 @@
 # python-api-challenge 
-part I
-a)
+part I 
+section 1: 
 
 In this challenge a Python script used to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, it will be utilized a simple Python library, the OpenWeatherMap API to create a representative model of weather across world cities.
 
@@ -30,10 +30,12 @@ It looks like, if the step functions used, it may fit properly.
  <img width="566" alt="Lat_vs_windSpeed" src="https://user-images.githubusercontent.com/67448948/123162917-298bfb80-d43f-11eb-9527-c38419761bd3.png">
 In the above plot (City Latitude vs Wind Speed shows):
 Density of cities scattered is between where Wind speed is between 0-10 mph, or rather shows that it has less dependcy on the latitude.
+
+Part I
+Section 2: 
+
 Then linear regression is performed on each relationship. This time, separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
-part I 
-b) Perform linear regression analysis on information obtained Part I "a", but split data inod norther and southern hemisphere before regression analysis.  
 5. Northern Hemisphere - Temperature (F) vs. Latitude 
  <img width="455" alt="northern_temp_lat" src="https://user-images.githubusercontent.com/67448948/123163298-90111980-d43f-11eb-9e8f-2ff778952b97.png">
 6. Southern Hemisphere - Temperature (F) vs. Latitude 
