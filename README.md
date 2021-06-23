@@ -9,14 +9,25 @@ The follwing requirements are completed to show relations below:
 In the above graph (City Latitude vs Max Temperature) shows:
 When latitude changes from -60 to +20 max temp of cities rise then falls back until Lat of 80 while having some sort of symmetry .
 20 is being highest point, then both sides drop equally range of 60 where Latitude spreads. Quadratic function may fit nicely, unless if it is splitted @ latidue 20 and do two separate linear regressions.
+
 2. Humidity (%) vs. Latitude
  <img width="512" alt="Lat_vs_humidity" src="https://user-images.githubusercontent.com/67448948/123162898-25f87480-d43f-11eb-9fd3-f8e5856395f5.png">
+ In the above graph, City Latitude vs Humidity scatter plot shows that:
+Regardless of lattiude change, more cities are scattered where humidity is between 60% & 100%. But, when latidude is >= 0, there are more cities where humdity is below 40% compare to opposite same latitude. It may show different pattern as season changes since plot are made on current weather data.
+
 3. Cloudiness (%) vs. Latitude
-<img width="569" alt="lat_vs_Cloudiness" src="https://user-images.githubusercontent.com/67448948/123162910-285ace80-d43f-11eb-99ad-d5566a59e88a.png">
+<img width="569" alt="lat_vs_Cloudiness" src="https://user-images.githubusercontent.com/67448948/123162910-285ace80-d43f-11eb-99ad-d5566a59e88a.png"> 
+
+In the above plot (From City Latitude vs Cloudiness) shows :
+When latitude between (-40 and -20, cities are clustered @ 0 cloudiness.
+Also, when latitude between +20 and +50 cities are clustered @ 0 cloudiness.
+When latitude between 0 and 20, more cities clustered close to 100% cloudiness.
+It looks like, if the step functions used, it may fit properly.
+
 4. Wind Speed (mph) vs. Latitude
  <img width="566" alt="Lat_vs_windSpeed" src="https://user-images.githubusercontent.com/67448948/123162917-298bfb80-d43f-11eb-9527-c38419761bd3.png">
-
-
+In the above plot (City Latitude vs Wind Speed shows):
+Density of cities scattered is between where Wind speed is between 0-10 mph, or rather shows that it has less dependcy on the latitude.
 Then linear regression is performed on each relationship. This time, separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
 5. Northern Hemisphere - Temperature (F) vs. Latitude 
