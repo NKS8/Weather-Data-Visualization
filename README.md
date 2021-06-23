@@ -58,3 +58,17 @@ Humidity: In both Northern and Southern hemisphere where cities are located lati
 Northern and Southern hemisphere both higher density cloudiness close to zero versus close to hundred in depends on ranges of latitudes shows on the graph.
 Regardless of latitude, in both most cities in regions of southern and northern hemisphere the wind speed ranges between 0-10 mph. So wind does not heavily effected by where city location is laitude wise, it is rather other affected by other factors.
 
+## Part II 
+1. Created a heat map that displays the humidity for every city from Part I. 
+The heat map for cities weather data obtained from Part I. 
+
+
+2. Narrowed down the DataFrame to find your ideal weather condition. 
+For example:
+A max temperature lower than 85 degrees but higher than 82.
+Wind speed less than 4 mph.
+Zero cloudiness.
+Dropped any rows that don't contain all three conditions to be sure the weather is ideal. Note: Felt free to adjust to my specifications but be sure to limit the number of rows returned by my API requests to a reasonable number.
+Used Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
+Plotted the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
+
