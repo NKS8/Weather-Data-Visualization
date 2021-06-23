@@ -74,4 +74,4 @@ Plotted the hotels on top of the humidity heatmap with each pin containing the H
 
 <img width="737" alt="Ideal Vacation spot map  2021-06-23 154845" src="https://user-images.githubusercontent.com/67448948/123168393-ea14dd80-d445-11eb-8d75-1483b59fcdd9.png">
 
-
+Above cities are narrowed down and shown on the google map with Hotel Name, City, and Country.
