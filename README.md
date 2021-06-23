@@ -5,7 +5,7 @@ In this example, I ll be creating a Python script to visualize the weather of 50
 The follwing requirements ar completed to show relations below:
 
 1. Temperature (F) vs. Latitude  
-<img width="564" alt="Max_temp" src="https://user-images.githubusercontent.com/67448948/123162886-22fd8400-d43f- 1eb-8e5a-01a15c67ea11.png">
+<img width="564" alt="Max_temperature" src="https://user-images.githubusercontent.com/67448948/123162886-22fd8400-d43f- 1eb-8e5a-01a15c67ea11.png">
 2. Humidity (%) vs. Latitude
 <img width="512" alt="Lat_vs_humidity" src="https://user-images.githubusercontent.com/67448948/123162898-25f87480-d43f-11eb-9fd3-f8e5856395f5.png">
 3. Cloudiness (%) vs. Latitude
