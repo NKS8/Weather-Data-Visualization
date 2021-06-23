@@ -61,7 +61,7 @@ Regardless of latitude, in both most cities in regions of southern and northern 
 ## Part II 
 1. Created a heat map that displays the humidity for every city from Part I. 
 The heat map for cities weather data obtained from Part I. 
-
+<img width="742" alt="Heat map for over 500 cities  2021-06-23 154724" src="https://user-images.githubusercontent.com/67448948/123168381-e5502980-d445-11eb-9de6-5cb3e6b50341.png">
 
 2. Narrowed down the DataFrame to find your ideal weather condition. 
 For example:
@@ -70,5 +70,6 @@ Wind speed less than 4 mph.
 Zero cloudiness.
 Dropped any rows that don't contain all three conditions to be sure the weather is ideal. Note: Felt free to adjust to my specifications but be sure to limit the number of rows returned by my API requests to a reasonable number.
 Used Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
-Plotted the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
+Plotted the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country. 
+
 
