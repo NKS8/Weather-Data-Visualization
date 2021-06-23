@@ -4,7 +4,8 @@ In this example, I ll be creating a Python script to visualize the weather of 50
 
 The follwing requirements ar completed to show relations below:
 
-Temperature (F) vs. Latitude
+Temperature (F) vs. Latitude  
+https://user-images.githubusercontent.com/67448948/123162898-25f87480-d43f-11eb-9fd3-f8e5856395f5.png
 
 Humidity (%) vs. Latitude
 Cloudiness (%) vs. Latitude
