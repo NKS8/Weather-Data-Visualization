@@ -1,6 +1,5 @@
 # python-api-challenge 
-part I 
-section 1: 
+## part I-Section 1: 
 
 In this challenge a Python script used to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, it will be utilized a simple Python library, the OpenWeatherMap API to create a representative model of weather across world cities.
 
@@ -31,7 +30,7 @@ It looks like, if the step functions used, it may fit properly.
 In the above plot (City Latitude vs Wind Speed shows):
 Density of cities scattered is between where Wind speed is between 0-10 mph, or rather shows that it has less dependcy on the latitude.
 
-Part I
+# Part I
 Section 2: 
 
 Then linear regression is performed on each relationship. This time, separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
