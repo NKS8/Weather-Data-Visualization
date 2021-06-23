@@ -6,7 +6,7 @@ In this challenge a Python script used to visualize the weather of 500+ cities a
 The follwing requirements are completed to show relations below:
 
 1. Temperature (F) vs. Latitude  2. Humidity (%) vs. Latitude
-<img width="455" alt="northern_temp_lat" src="https://user-images.githubusercontent.com/67448948/123168855-88a13e80-d446-11eb-9eae-48738634c711.png">
+<img width="564" alt="Max_temp" src="https://user-images.githubusercontent.com/67448948/123169254-0a916780-d447-11eb-8de3-af7bca7f0855.png">
 
 In the above graph (City Latitude vs Max Temperature) shows:
 When latitude changes from -60 to +20 max temp of cities rise then falls back until Lat of 80 while having some sort of symmetry .
