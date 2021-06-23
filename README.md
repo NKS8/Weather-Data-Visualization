@@ -6,7 +6,8 @@ In this challenge a Python script used to visualize the weather of 500+ cities a
 The follwing requirements are completed to show relations below:
 
 1. Temperature (F) vs. Latitude  2. Humidity (%) vs. Latitude
-<img width="564" alt="Max_temperature" src="https://user-images.githubusercontent.com/67448948/123162886-22fd8400-d43f- 1eb-8e5a-01a15c67ea11.png"> 
+<img width="455" alt="northern_temp_lat" src="https://user-images.githubusercontent.com/67448948/123168855-88a13e80-d446-11eb-9eae-48738634c711.png">
+
 In the above graph (City Latitude vs Max Temperature) shows:
 When latitude changes from -60 to +20 max temp of cities rise then falls back until Lat of 80 while having some sort of symmetry .
 20 is being highest point, then both sides drop equally range of 60 where Latitude spreads. Quadratic function may fit nicely, unless if it is splitted @ latidue 20 and do two separate linear regressions.
@@ -39,6 +40,7 @@ Then linear regression is performed on each relationship. This time, separate th
 6. Southern Hemisphere - Temperature (F) vs. Latitude 
  <img width="437" alt="Southern_temp_lat" src="https://user-images.githubusercontent.com/67448948/123163325-9a331800-d43f-11eb-8769-1354b7fde9fd.png">
 7. Northern Hemisphere - Humidity (%) vs. Latitude 
+
 <img width="488" alt="Northern_Hhumidity_lat" src="https://user-images.githubusercontent.com/67448948/123163470-bdf65e00-d43f-11eb-96c1-25a652d4698b.png">
 8. Southern Hemisphere - Humidity (%) vs. Latitude
 <img width="469" alt="Southern_Humidity" src="https://user-images.githubusercontent.com/67448948/123163495-c484d580-d43f-11eb-9771-0b720ac5fbf8.png">
