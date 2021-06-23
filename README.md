@@ -1,5 +1,5 @@
 # python-api-challenge 
-## part I-Section 1: 
+## Part I-Section 1.
 
 In this challenge a Python script used to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, it will be utilized a simple Python library, the OpenWeatherMap API to create a representative model of weather across world cities.
 
@@ -30,8 +30,7 @@ It looks like, if the step functions used, it may fit properly.
 In the above plot (City Latitude vs Wind Speed shows):
 Density of cities scattered is between where Wind speed is between 0-10 mph, or rather shows that it has less dependcy on the latitude.
 
-# Part I
-Section 2: 
+## Part I -Section 2.
 
 Then linear regression is performed on each relationship. This time, separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
@@ -52,7 +51,7 @@ Then linear regression is performed on each relationship. This time, separate th
 12. Southern Hemisphere - Wind Speed (mph) vs. Latitude
 <img width="502" alt="Southern_wind" src="https://user-images.githubusercontent.com/67448948/123163612-e8481b80-d43f-11eb-95f7-8dc511dbc86c.png">
 
-Observation for Part I : 
+## Observation for Part I- Section 2.  
 
 Max Temperature: Temperature in south hemisphere increases as latitude decrease/getting closer to the equator, the opposite happens in northern hemisphere. Note: The Highest Max temperature occurs cities are located around latitude of 20.
 Humidity: In both Northern and Southern hemisphere where cities are located latitude wise does not have a strong correlations between Latidue and Humidity.
