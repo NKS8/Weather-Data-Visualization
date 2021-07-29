@@ -10,7 +10,7 @@ The follwing requirements are completed to show relations below:
 
 In the above graph (City Latitude vs Max Temperature) shows:
 When latitude changes from -60 to +20 max temp of cities rise then falls back until Lat of 80 while having some sort of symmetry .
-20 is being highest point, then both sides drop equally range of 60 where Latitude spreads. Quadratic function may fit nicely, unless if it is splitted @ latidue 20 and do two separate linear regressions.
+20 is being highest point, then both sides drop equally range of 60 as the Latitude spreads. Quadratic function may fit nicely, unless if it is splitted @ latidue 20 and do two separate linear regressions.
 
 2. Humidity (%) vs. Latitude
  <img width="512" alt="Lat_vs_humidity" src="https://user-images.githubusercontent.com/67448948/123162898-25f87480-d43f-11eb-9fd3-f8e5856395f5.png">
